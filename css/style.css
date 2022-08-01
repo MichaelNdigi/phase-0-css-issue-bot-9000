@@ -4,6 +4,7 @@ body {
 
 h1 {
   color: blue;
+  font-size: 3em;
 }
 
 h2 {
@@ -18,4 +19,5 @@ h2 {
 
 #tasks .completed {
   text-decoration: underline;
+  background: #ccc;
 }
